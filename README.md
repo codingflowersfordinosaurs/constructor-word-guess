@@ -1,4 +1,5 @@
 # constructor-word-guess
+## Advanced Javascript game using Node and the command line
 ## Instructions
 The completed game should meet the following criteria:
 
